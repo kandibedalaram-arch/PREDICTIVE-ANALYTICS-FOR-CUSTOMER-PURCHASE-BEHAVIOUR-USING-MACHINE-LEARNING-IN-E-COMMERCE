@@ -3,10 +3,10 @@ Project Overview:
 The research aims to examine and develop an improved predictive analytics framework with machine learning for accurately predicting customer purchase behaviour in e-commerce platforms. 
 
 Objective:
-●	To identify the key transactional and behavioural factors that influence the customer purchase decisions. 
-●	To develop machine learning models for accurately predicting consumer purchase behaviour in e-commerce platforms. 
-●	To compare the performance of predictive analytics models based on machine learning. 
-●	To propose an advanced and actionable predictive framework that can improve personalised marketing and conversion rates in e-commerce businesses
+To identify the key transactional and behavioural factors that influence the customer purchase decisions. 
+To develop machine learning models for accurately predicting consumer purchase behaviour in e-commerce platforms. 
+To compare the performance of predictive analytics models based on machine learning. 
+To propose an advanced and actionable predictive framework that can improve personalised marketing and conversion rates in e-commerce businesses
 
 Technologies Used:
 Python
