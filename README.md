@@ -9,12 +9,12 @@ To compare the performance of predictive analytics models based on machine learn
 To propose an advanced and actionable predictive framework that can improve personalised marketing and conversion rates in e-commerce businesses
 
 Technologies Used:
-Python
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
-Jupyter Notebook
+ Python
+ Pandas
+ NumPy
+ Matplotlib
+ Scikit-learn
+ Jupyter Notebook
 
 Dataset:
 structured e-commerce dataset containing behavioural and transactional variables. The dataset includes purchase history, duration on site, visit frequency, session acidity, and purchase outcomes of the customers.
