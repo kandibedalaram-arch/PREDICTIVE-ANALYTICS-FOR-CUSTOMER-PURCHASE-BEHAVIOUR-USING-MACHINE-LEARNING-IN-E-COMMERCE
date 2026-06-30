@@ -15,7 +15,7 @@ The objectives of this project are to:
 * Compare multiple machine learning algorithms to determine the best-performing model.
 * Support personalised marketing strategies and improve customer conversion rates.
 
-📊 Dataset Information
+Dataset Information
 
 * Source: Kaggle – Customer Purchase Behaviour Dataset
 * Dataset Type: Structured e-commerce behavioural and transactional data
